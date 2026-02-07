@@ -67,7 +67,7 @@ This is a complete end-to-end analytics project covering:
     │   └── workforce_analytics.ipynb
     │
     ├── dashboard/
-    │   └── Workforce_Analytics.pbix
+    │   └── Workforce Analytics & Attrition Intelligence Dashboard.pbix
     │
     └── README.md
     
@@ -111,6 +111,11 @@ Performed:
 
 ---
 
+## Dashboard Image :
+![](https://github.com/shweta0623/-Workforce-Analytics-Attrition-Intelligence-Dashboard/blob/main/Screenshot%20(2).png)
+
+---
+
 ## 🎯 Business Impact
 
 - This dashboard can help organizations:
@@ -131,7 +136,7 @@ Performed:
     workforce_analytics.ipynb
 
 #### In Power BI: 
-    Workforce_Analytics.pbix
+    Workforce Analytics & Attrition Intelligence Dashboard.pbix
     
 ---
 
